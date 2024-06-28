@@ -1,0 +1,13 @@
+{
+  "name": "Diiter",
+  "symbol": "DIT",
+  "description": "Diiter's Token",
+  "image": "paste_arweave_image_link_here",
+  "attributes": {
+    {
+        "trait_type": "Item",
+        "value": "Diiter Token"  
+    }
+    
+  }
+}
