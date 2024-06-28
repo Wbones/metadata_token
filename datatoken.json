@@ -2,7 +2,7 @@
   "name": "Diiter",
   "symbol": "DIT",
   "description": "Diiter's Token",
-  "image": "paste_arweave_image_link_here",
+  "image": "https://raw.githubusercontent.com/Wbones/metadata_token/main/Diiter.png",
   "attributes": {
     {
         "trait_type": "Item",
